@@ -1,0 +1,12 @@
+#server:
+#  port: 9090
+
+# 定义对象
+user:
+  name: zhangsan
+  age: 18
+  # 集合定义
+  address:
+    - 深圳
+    - 广州
+    - 上海
